@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lodey1
+- 👋 Hi, I’m Lawrence
 - 👀 I’m interested in Business and Data Analytics
 - 🌱 I’m currently learning R, SQL and Tableau
 - 💞️ I’m looking to collaborate on data analysis projects to build my portfolio
